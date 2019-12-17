@@ -1,0 +1,6 @@
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\bin\Debug\OC_03.exe.config
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\bin\Debug\OC_03.exe
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\bin\Debug\OC_03.pdb
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\obj\Debug\OC_03.exe
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\obj\Debug\OC_03.pdb
+C:\Users\ITCA_Student\documents\visual studio 2013\Projects\OC_05\OC_03\obj\Debug\OC_03.csprojResolveAssemblyReference.cache
